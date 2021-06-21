@@ -1,4 +1,4 @@
-max_number = 10000 # change this number to 1000 
+max_number = 1000 # change this number to 1000 
 prime_numbers = []
 number=1
 
