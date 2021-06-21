@@ -17,16 +17,17 @@ d = {
   "year": 1964
 }
 print(d)
-print(d["brand"])
+print(d["year"])
 
 
 print("----------------------------------")
 
-e = ["Ford", "Volvo", "BMW"]
+e = ["Ford", "Volvo", "BMW","Mercedes"]
 print(e)
 print(e[0])
 print(e[1])
 print(e[2])
+print(e[3])
 
 
 print("----------------------------------")
