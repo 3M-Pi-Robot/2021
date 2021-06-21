@@ -1,5 +1,9 @@
 e = ["Apple", "Papaya", "Lemon"]
 
+
+for i in [0,1,2]:
+    print(e[i])
+
 for i in range(0,3):
     print(e[i])
 
@@ -13,7 +17,7 @@ for k in e:
 l=1
 while l<3:
     print(e[l])
-    l=l+1
+     l=l+1
 
 
     
