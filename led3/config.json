@@ -1,0 +1,7 @@
+{
+"LED1":{"pin":2,"io":"out"},
+"LED2":{"pin":3,"io":"out"},
+"LED3":{"pin":4,"io":"out"},
+"LED4":{"pin":17,"io":"out"},
+"LED5":{"pin":27,"io":"out"}
+}
