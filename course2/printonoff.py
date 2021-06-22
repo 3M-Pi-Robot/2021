@@ -1,5 +1,7 @@
 # function / module
 
+
+
 def first(input):
     if(input==1):
         print("On")
@@ -8,6 +10,8 @@ def first(input):
 
 def second():
     print("test")
+
+#first(1)
+#second()
               
-first(1)
-second()
+
