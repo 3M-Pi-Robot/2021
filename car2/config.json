@@ -1,0 +1,5 @@
+{
+"IN1":{"pin":14,"io":"out"},
+"IN2":{"pin":15,"io":"out"},
+"ENA":{"pin":18,"io":"out"}
+}
