@@ -1,0 +1,8 @@
+{
+"ENA":{"pin":18,"io":"pwm"},
+"IN1":{"pin":14,"io":"out"},
+"IN2":{"pin":15,"io":"out"},
+"ENB":{"pin":25,"io":"pwm"},
+"IN3":{"pin":8,"io":"out"},
+"IN4":{"pin":7,"io":"out"}
+}
